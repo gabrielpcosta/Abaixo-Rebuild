@@ -1,0 +1,7 @@
+# Ignorar arquivos de objeto
+*.o
+
+# Ignorar builds gerados no bin
+Project/bin/Debug-static/**
+Project/bin/Debug-dynamic/**
+Project/bin/Release-dynamic/**

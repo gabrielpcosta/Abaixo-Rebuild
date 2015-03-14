@@ -1,7 +1,0 @@
-# Ignorar arquivos de objeto
-*.o
-
-# Ignorar builds gerados no bin
-bin/**
-# Mas aceitar o Release-static
-!bin/Release-static/**

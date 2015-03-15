@@ -6,5 +6,6 @@ Project/bin/Debug-static/**
 Project/bin/Debug-dynamic/**
 Project/bin/Release-dynamic/**
 
-# Ignorar arquivos .layout do CodeBlocks
+# Ignorar arquivos do CodeBlocks que não sejam o projeto
 *.layout
+*.depend

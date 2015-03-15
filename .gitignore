@@ -2,9 +2,7 @@
 *.o
 
 # Ignorar builds gerados no bin
-Project/bin/Debug-static/**
-Project/bin/Debug-dynamic/**
-Project/bin/Release-dynamic/**
+Project/bin/**
 
 # Ignorar arquivos do CodeBlocks que não sejam o projeto
 *.layout

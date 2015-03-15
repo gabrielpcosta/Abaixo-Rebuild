@@ -33,7 +33,6 @@
 					<Add option="-lopengl32" />
 					<Add option="-lsfml-system-s-d" />
 					<Add option="-lwinmm" />
-					<Add directory="$(#sfml)/Build/Debug-static/lib" />
 				</Linker>
 			</Target>
 			<Target title="Release-static">
